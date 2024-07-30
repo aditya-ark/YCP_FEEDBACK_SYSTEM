@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YCPFeedback", "YCPFeedback\YCPFeedback.csproj", "{7550D8AF-BDFB-4025-9F15-0BD37AE5FBE3}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Feedback Setup", "Feedback Setup\Feedback Setup.vdproj", "{5579AA0D-0929-4747-99A6-1AF50CE71451}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7550D8AF-BDFB-4025-9F15-0BD37AE5FBE3}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{7550D8AF-BDFB-4025-9F15-0BD37AE5FBE3}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{7550D8AF-BDFB-4025-9F15-0BD37AE5FBE3}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{7550D8AF-BDFB-4025-9F15-0BD37AE5FBE3}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{7550D8AF-BDFB-4025-9F15-0BD37AE5FBE3}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{7550D8AF-BDFB-4025-9F15-0BD37AE5FBE3}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{7550D8AF-BDFB-4025-9F15-0BD37AE5FBE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7550D8AF-BDFB-4025-9F15-0BD37AE5FBE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7550D8AF-BDFB-4025-9F15-0BD37AE5FBE3}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{7550D8AF-BDFB-4025-9F15-0BD37AE5FBE3}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{5579AA0D-0929-4747-99A6-1AF50CE71451}.CD_ROM|Any CPU.ActiveCfg = Release
+		{5579AA0D-0929-4747-99A6-1AF50CE71451}.Debug|Any CPU.ActiveCfg = Debug
+		{5579AA0D-0929-4747-99A6-1AF50CE71451}.DVD-5|Any CPU.ActiveCfg = Debug
+		{5579AA0D-0929-4747-99A6-1AF50CE71451}.Release|Any CPU.ActiveCfg = Release
+		{5579AA0D-0929-4747-99A6-1AF50CE71451}.SingleImage|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
